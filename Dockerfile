@@ -25,6 +25,6 @@ USER myuser
 
 
 
-ENTRYPOINT ["python", "main.py"]
+ENTRYPOINT ["python3", "main.py"]
 
 CMD ["--url","http://github.com/rk94407"]
