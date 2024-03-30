@@ -67,7 +67,7 @@ def main():
     
     
     timestamp = datetime.now().strftime('%Y%m%d%H%M%S')
-    qr_filename = f"QRCode_{timestamp}.png"
+    qr_filename = f"github_qr{timestamp}.png"
 
     
     qr_code_full_path = Path.cwd() / QR_DIRECTORY / qr_filename
