@@ -13,7 +13,7 @@ load_dotenv()
 
 
 QR_DIRECTORY = os.getenv('QR_CODE_DIR', 'qr_codes')  
-FILL_COLOR = os.getenv('FILL_COLOR', 'red')  
+FILL_COLOR = os.getenv('FILL_COLOR', 'black')  
 BACK_COLOR = os.getenv('BACK_COLOR', 'white')  
 
 def setup_logging():
