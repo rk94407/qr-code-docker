@@ -6,4 +6,7 @@
 4. After python file is run it creates an image of qr code in qr_codes/{filename}.png folder
 
 # Scan the QR code to visit my website
-![alt text](qr_codes/QRCode_20240329235737.png)
+![alt text](qr_codes/github_qr20240402144056.png)
+
+# Log successfully created
+![alt text](qr_code_generation_log.png)
